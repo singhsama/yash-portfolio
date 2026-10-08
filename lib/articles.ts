@@ -7,7 +7,7 @@
  */
 
 export const mediumConfig = {
-  username: "", // TODO: your Medium handle without "@", e.g. "naradsden"
+  username: "naradsden", // TODO: your Medium handle without "@", e.g. "naradsden"
   limit: 6,
   /** Optional rss2json API key (raises the free rate limit). Leave "" to use the anonymous tier. */
   rss2jsonApiKey: "",
