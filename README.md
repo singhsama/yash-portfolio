@@ -1,3 +1,4 @@
+
 # Yash Singh · Personal Site
 
 Next.js 15 (App Router) · React 19 · Tailwind CSS v4 · Lucide icons. #030304 canvas, editorial layout (hairline rows, master-detail panels, cursor-follow previews); motion is pure CSS.
