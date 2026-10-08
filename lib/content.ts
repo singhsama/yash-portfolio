@@ -98,7 +98,7 @@ export const capabilities: Capability[] = [
       "Digital execution",
       "Multi-team program governance",
     ],
-    proof: "3–4 national campaigns led",
+    proof: "4 national campaigns led",
   },
   {
     key: "product",
@@ -153,7 +153,7 @@ export const projects: Project[] = [
     visual: "campaign",
     blurb:
       "End-to-end program management of political campaigns for major parties across India, from strategy and field analytics to outreach operations and digital execution.",
-    highlights: ["3–4 national campaigns led", "Multi-region outreach", "Daily leadership MIS"],
+    highlights: ["4 national campaigns led", "Multi-region outreach", "Daily leadership MIS"],
     bullets: [
       "Owned the campaign operating rhythm: plans, daily targets, reviews and closure reporting",
       "Built ground-level analytics from field and call-centre data into decision-ready reports",
