@@ -40,7 +40,7 @@ export const links = {
   topmate: topmateUrl,
   coffee: "https://buymeacoffee.com/", // TODO
   linkedin: "https://www.linkedin.com/", // TODO
-  medium: "https://medium.com/", // TODO: https://medium.com/@your-handle
+  medium: "https://medium.com/", // TODO: https://medium.com/@naradsden
   x: "https://x.com/", // TODO
   github: "https://github.com/", // TODO
 };
