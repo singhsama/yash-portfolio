@@ -17,7 +17,7 @@ export const profile = {
   timezone: "IST · UTC+5:30",
   education: "B.Tech, IIIT Bhubaneswar",
   email: "yashsingh.work.pm@gmail.com",
-  campaignsLed: "3–4",
+  campaignsLed: "4",
   campaignsLabel: "National campaigns led",
 };
 
