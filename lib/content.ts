@@ -39,7 +39,7 @@ export const topmateUrl = topmate.handle ? `https://topmate.io/${topmate.handle}
 export const links = {
   topmate: topmateUrl,
   coffee: "https://buymeacoffee.com/maxwellnarad", // TODO
-  linkedin: "https://www.linkedin.com/yashsingh7", // TODO
+  linkedin: "https://www.linkedin.com/in/yashsingh7", // TODO
   medium: "https://medium.com/naradsden", // TODO: https://medium.com/@naradsden
   x: "https://x.com/maxwellnarad", // TODO
   github: "https://github.com/", // TODO
